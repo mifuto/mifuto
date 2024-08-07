@@ -17,8 +17,8 @@ define('DB_NAME','u775466301_machooscrm');
 // define('DB_NAME','forstar_new'); //delete this
 
  
-define('AWS_KEY','AKIASEOXOVG2M6D4JVUD');
-define('AWS_SECRET','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');
+define('AWS_KEY','aws_key_val');
+define('AWS_SECRET','aws_secret_val');
 define('AWS_REGION','ap-south-2');
 define('AWS_BUCKET','machooosinternational');
  
